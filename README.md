@@ -1,2 +1,2 @@
-# Machine-Learning-Intern-CodeAlpha
-Machine Learning Intern @CodeAlpha
+Machine Learning Projects - Code Alpha Internship
+Welcome to my repository of machine learning projects developed during my internship at Code Alpha. This folder contains various projects that showcase the skills and knowledge I gained throughout the internship. Each project demonstrates different aspects of machine learning, including data preprocessing, model building, evaluation, and deployment.
